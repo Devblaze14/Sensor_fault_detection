@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+experiment_results.csv
+demo_results.png
+sensitivity_*.png
+degradation_curves.png
+.idea/
+.vscode/
